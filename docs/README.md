@@ -13,9 +13,9 @@ This repo just sets up a basic docsify environment:
 To get started quickly, just do:
 
 ```
-$ git clone https://github.com/bylexus/docsify-starter.git
-$ cd docsify-starter
-$ docker-compose up
+$ git clone URLtoLernportfolioGithub
+$ cd URLtoLernportfolioGithub
+$ docker compose up
 ```
 
 There are now 2 containers running:
@@ -32,14 +32,3 @@ $ docker exec -ti docsify docsify help
 ```
 
 Your docsify docs are in the `docs/` dir. Feel free to edit them as needed!
-
-## Note for git users
-
-This Repo is meant as template. After cloning, feel free to delete the `.git` dir, and init your own git, e.g.:
-
-```
-$ git clone https://github.com/bylexus/docsify-starter.git
-$ cd docsify-starter
-$ rm -rf .git
-$ git init
-```
