@@ -1,0 +1,17 @@
+T1 : Dokumentation Aufgabenstellung/Zielsetzung - 20%
+**Minimale Anforderungen: **
+
+Die eigene Aufgabenstellung/Zielsetzung ist ausführlich formuliert
+Anforderungen an die Applikation sind ausformuliert (funktionale und nicht-funktionale Anforderungen)
+Die Applikation ist angemessen mit UML-Diagrammen (Klassen-, Sequenz- und Komponentendiagrammen) dokumentiert
+**Bewertung: **
+
+Abgabe 1 : 10% // Aufgabenstellung und Anforderungen
+[0-4P] : Aufgabenstellung/Zielsetzung ist formuliert (Freitext)
+[0-4P] : Anforderungen (funktionale/nicht-funktionale) sind beschrieben und als Aufzählung vorhanden. Identifizieren/Priorisieren Sie dabei die wichtigsten Anforderungen
+Abgabe 2 : 10% // UML-Dokumentation
+[0-4P] : Beteiligte Komponenten sind in einem Komponentendiagramm dargestellt (APIs/DBs/GUI/Serverdienste), Sequenzdiagramme stellen die Kommunkationsabläufe dar
+[0-4P] : Softwareklassen der Applikation (nicht die des Frameworks) sind mittels eines Klassendiagramms dokumentiert
+**Abgabeform: **
+
+Abgabe 1 : Docsify

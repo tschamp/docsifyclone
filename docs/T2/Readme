@@ -1,0 +1,21 @@
+T2 : Logging - 20%
+**Minimal Anforderungen: **
+
+Theoretische Elemente von Logging sind behandelt
+Logging wird in der eigenen Applikation eingesetzt
+**Bewertung: **
+
+Abgabe 1 : 10% // Theorieelemente zu Logging sind mittels eines Loggingframeworks erläutert <- Dokumentiert mit einem Lernvideo auf Youtube anhand von einem eigenen Beispiel (max. 3min)
+Abgabe 2 : 10% // Alle Ereignisse in der Applikation werden, entsprechend dem Event-Level, in einer Datei (oder sonst sinnvoll) geloggt
+**Abgabeform / Abgabedatum: **
+
+Abgabe 1 : YouTube-Video mit Link in Lerndoku
+[0-4P] : Theorieelemente des Frameworks sind erläutert (in Lernvideo)
+[0-4P] : Praktisches, eigenes Beispiel wird erläutert (in Lernvideo)
+Abgabe 2 : Source-Code
+[0-4P] : Logging ist in der Applikation durchgängig implementiert
+[0-4P] : Logging ist bezgl. der Ausgabe sinnvoll angewendet
+**Abgabeform: **
+
+Abgabe 1 : Docsify
+Abgabe 2 : Source-Code
